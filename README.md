@@ -1,6 +1,6 @@
-This script converts tmx into xlf.<b>
-You only need to replace the languages:<b>
-source_text = tu.find(".//tuv[@lang='en']/seg")<b>
-target_text = tu.find(".//tuv[@lang='fr']/seg")<b>
-<b><b>
+This script converts tmx into xlf.<br>
+You only need to replace the languages:<br>
+source_text = tu.find(".//tuv[@lang='en']/seg")<br>
+target_text = tu.find(".//tuv[@lang='fr']/seg")<br>
+<br><br>
 And specify your tmx name.
